@@ -6,4 +6,4 @@ In this project, I developed a method for synchronizing ECG data collected by se
 from sensors and a mobile phone. As you can see from the image in the PDF file, the data collected by the three sensors 
 was synchronized very well.
 
-If you are wondering, the Acceleration and gyroscope data are collected only from the first sensor.
+If you are wondering, the acceleration and gyroscope data are collected only from the first sensor.
